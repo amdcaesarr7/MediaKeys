@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\9.4.1\\com.mediakeys.app-debug-51:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\9.4.1\\com.mediakeys.app-main-53:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\9.4.1\\com.mediakeys.app-debug-51:\\drawable_status_dot.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\9.4.1\\com.mediakeys.app-main-53:\\drawable\\status_dot.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\9.4.1\\com.mediakeys.app-debug-51:\\layout_item_gesture.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\9.4.1\\com.mediakeys.app-main-53:\\layout\\item_gesture.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\9.4.1\\com.mediakeys.app-debug-51:\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\9.4.1\\com.mediakeys.app-main-53:\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\9.4.1\\com.mediakeys.app-debug-51:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\9.4.1\\com.mediakeys.app-main-53:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\9.4.1\\com.mediakeys.app-debug-51:\\drawable_ic_notification.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\9.4.1\\com.mediakeys.app-main-53:\\drawable\\ic_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\9.4.1\\com.mediakeys.app-debug-51:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\9.4.1\\com.mediakeys.app-main-53:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\9.4.1\\com.mediakeys.app-debug-51:\\layout_fragment_gestures.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\9.4.1\\com.mediakeys.app-main-53:\\layout\\fragment_gestures.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\9.4.1\\com.mediakeys.app-debug-51:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\9.4.1\\com.mediakeys.app-main-53:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\9.4.1\\com.mediakeys.app-debug-51:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\9.4.1\\com.mediakeys.app-main-53:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\9.4.1\\com.mediakeys.app-debug-51:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\9.4.1\\com.mediakeys.app-main-53:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\9.4.1\\com.mediakeys.app-debug-51:\\layout_fragment_settings.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\9.4.1\\com.mediakeys.app-main-53:\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\9.4.1\\com.mediakeys.app-debug-51:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\9.4.1\\com.mediakeys.app-main-53:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\9.4.1\\com.mediakeys.app-debug-51:\\xml_accessibility_service_config.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\9.4.1\\com.mediakeys.app-main-53:\\xml\\accessibility_service_config.xml"
+    },
+    {
+        "merged": "com.mediakeys.app-debug-51:/layout_fragment_settings.xml.flat",
+        "source": "com.mediakeys.app-main-53:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\9.4.1\\com.mediakeys.app-debug-51:\\drawable_ic_settings.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\9.4.1\\com.mediakeys.app-main-53:\\drawable\\ic_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\9.4.1\\com.mediakeys.app-debug-51:\\drawable_ic_gesture.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\9.4.1\\com.mediakeys.app-main-53:\\drawable\\ic_gesture.xml"
+    }
+]

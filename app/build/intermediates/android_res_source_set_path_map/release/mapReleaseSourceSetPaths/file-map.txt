@@ -1,0 +1,10 @@
+com.mediakeys.app-pngs-0 C:\Users\admin\OneDrive\Documents\CaesarCodess\MediaKeys\app\build\generated\res\pngs\release
+com.mediakeys.app-resValues-1 C:\Users\admin\OneDrive\Documents\CaesarCodess\MediaKeys\app\build\generated\res\resValues\release
+com.mediakeys.app-updated_navigation_xml-2 C:\Users\admin\OneDrive\Documents\CaesarCodess\MediaKeys\app\build\generated\updated_navigation_xml\release
+com.mediakeys.app-packageReleaseResources-3 C:\Users\admin\OneDrive\Documents\CaesarCodess\MediaKeys\app\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+com.mediakeys.app-packageReleaseResources-4 C:\Users\admin\OneDrive\Documents\CaesarCodess\MediaKeys\app\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+com.mediakeys.app-merged-not-compiled-resources-5 C:\Users\admin\OneDrive\Documents\CaesarCodess\MediaKeys\app\build\intermediates\merged-not-compiled-resources\release
+com.mediakeys.app-release-6 C:\Users\admin\OneDrive\Documents\CaesarCodess\MediaKeys\app\build\intermediates\merged_res\release\mergeReleaseResources
+com.mediakeys.app-main-7 C:\Users\admin\OneDrive\Documents\CaesarCodess\MediaKeys\app\src\main\res
+com.mediakeys.app-release-8 C:\Users\admin\OneDrive\Documents\CaesarCodess\MediaKeys\app\src\release\res
+gradleHome-0 C:\Users\admin\.gradle

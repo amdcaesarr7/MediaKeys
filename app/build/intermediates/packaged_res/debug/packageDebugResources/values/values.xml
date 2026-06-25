@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#121212</color>
+    <color name="bg_dark">#121212</color>
+    <color name="neon_accent">#BB86FC</color>
+    <color name="neon_accent_dark">#3700B3</color>
+    <color name="on_background">#FFFFFF</color>
+    <color name="on_primary">#000000</color>
+    <color name="on_surface">#FFFFFF</color>
+    <color name="primary">#BB86FC</color>
+    <color name="status_active">#BB86FC</color>
+    <color name="status_error">#CF6679</color>
+    <color name="status_inactive">#424242</color>
+    <color name="surface">#1E1E1E</color>
+    <color name="surface_dark">#1E1E1E</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B0B0B0</color>
+    <string name="accessibility_guide_body">1. Tap \'Grant Permission\' below.\n2. Find \'MediaKeys\' in the list.\n3. Toggle it ON.\n4. Tap \'Allow\'.</string>
+    <string name="accessibility_guide_title">Accessibility Setup</string>
+    <string name="accessibility_service_description">Detects volume button combinations to control media playback. Does not read screen content.</string>
+    <string name="accessibility_service_label">MediaKeys Gesture Engine</string>
+    <string name="action_launch">Launch Media App</string>
+    <string name="action_next">Next Track</string>
+    <string name="action_play_pause">Play / Pause</string>
+    <string name="action_prev">Previous Track</string>
+    <string name="active_app_label">Active Media App</string>
+    <string name="app_name">MediaKeys</string>
+    <string name="battery_impact_label">Battery Impact</string>
+    <string name="battery_impact_value">&lt;1% / hour</string>
+    <string name="battery_optimization_body">For reliable background operation, exempt MediaKeys from battery optimization in System Settings → Battery → Unmonitored Apps.</string>
+    <string name="battery_optimization_title">Battery Optimization</string>
+    <string name="btn_clear_logs">Clear</string>
+    <string name="btn_copy_logs">Copy All</string>
+    <string name="debug_console_title">Debug Console</string>
+    <string name="enable_service">Enable Service</string>
+    <string name="experimental_gestures">Experimental: Power + Volume</string>
+    <string name="experimental_warning">Power button combinations may interfere with device sleep on some devices.</string>
+    <string name="gesture_vol_down_double">Volume Down ×2</string>
+    <string name="gesture_vol_down_up">Vol Down → Vol Up</string>
+    <string name="gesture_vol_up_double">Volume Up ×2</string>
+    <string name="gesture_vol_up_down">Vol Up → Vol Down</string>
+    <string name="gestures_title">Gestures</string>
+    <string name="nav_gestures">Gestures</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_settings">Settings</string>
+    <string name="no_media_app">None detected</string>
+    <string name="notification_channel_desc">Keeps MediaKeys gesture engine running</string>
+    <string name="notification_channel_name">MediaKeys Service</string>
+    <string name="notification_text">Listening for gestures</string>
+    <string name="notification_title">MediaKeys Active</string>
+    <string name="open_battery_settings">Open Battery Settings</string>
+    <string name="open_settings">Grant Permission</string>
+    <string name="preferred_media_app_label">Preferred Media App</string>
+    <string name="service_disabled">Service Disabled</string>
+    <string name="service_enabled">Service Enabled</string>
+    <string name="settings_title">Settings</string>
+    <string name="setup_required">Accessibility permission required</string>
+    <string name="startup_on_boot">Start on Boot</string>
+    <string name="status_label">Status</string>
+    <string name="status_running">Running</string>
+    <string name="status_stopped">Stopped</string>
+    <string name="timing_window_label">Gesture Timing Window</string>
+    <string name="timing_window_unit">ms</string>
+    <string name="timing_window_value_format">%1$d %2$s</string>
+    <style name="Theme.MediaKeys" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="android:colorBackground">@color/bg_dark</item>
+        <item name="colorSurface">@color/surface_dark</item>
+
+        
+        <item name="colorPrimary">@color/neon_accent</item>
+        <item name="colorOnPrimary">@color/on_primary</item>
+
+        
+        <item name="android:textColorPrimary">@color/text_primary</item>
+        <item name="android:textColorSecondary">@color/text_secondary</item>
+
+        
+        <item name="android:statusBarColor">@color/bg_dark</item>
+        <item name="android:navigationBarColor">@color/bg_dark</item>
+    </style>
+    <style name="Widget.MediaKeys.Card" parent="Widget.Material3.CardView.Filled">
+        <item name="cardBackgroundColor">@color/surface_dark</item>
+        <item name="cardCornerRadius">16dp</item>
+        <item name="cardElevation">0dp</item>
+    </style>
+    <style name="Widget.MediaKeys.Switch" parent="Widget.Material3.CompoundButton.MaterialSwitch">
+        <item name="useMaterialThemeColors">true</item>
+    </style>
+</resources>

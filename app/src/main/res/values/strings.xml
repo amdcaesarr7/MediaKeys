@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MediaKeys</string>
+
+    <!-- Accessibility service -->
+    <string name="accessibility_service_label">MediaKeys Gesture Engine</string>
+    <string name="accessibility_service_description">Detects volume button combinations to control media playback. Does not read screen content.</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_gestures">Gestures</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Home screen -->
+    <string name="service_enabled">Service Enabled</string>
+    <string name="service_disabled">Service Disabled</string>
+    <string name="status_running">Running</string>
+    <string name="status_stopped">Stopped</string>
+    <string name="status_label">Status</string>
+    <string name="active_app_label">Active Media App</string>
+    <string name="no_media_app">None detected</string>
+    <string name="battery_impact_label">Battery Impact</string>
+    <string name="battery_impact_value">&#60;1% / hour</string>
+    <string name="enable_service">Enable Service</string>
+    <string name="setup_required">Accessibility permission required</string>
+    <string name="open_settings">Grant Permission</string>
+    <string name="debug_console_title">Debug Console</string>
+    <string name="btn_clear_logs">Clear</string>
+    <string name="btn_copy_logs">Copy All</string>
+
+    <!-- Gestures screen -->
+    <string name="gestures_title">Gestures</string>
+    <string name="gesture_vol_up_double">Volume Up ×2</string>
+    <string name="gesture_vol_down_double">Volume Down ×2</string>
+    <string name="gesture_vol_up_down">Vol Up → Vol Down</string>
+    <string name="gesture_vol_down_up">Vol Down → Vol Up</string>
+    <string name="action_next">Next Track</string>
+    <string name="action_prev">Previous Track</string>
+    <string name="action_play_pause">Play / Pause</string>
+    <string name="action_launch">Launch Media App</string>
+    <string name="experimental_gestures">Experimental: Power + Volume</string>
+    <string name="experimental_warning">Power button combinations may interfere with device sleep on some devices.</string>
+
+    <!-- Settings screen -->
+    <string name="settings_title">Settings</string>
+    <string name="timing_window_label">Gesture Timing Window</string>
+    <string name="timing_window_unit">ms</string>
+    <string name="timing_window_value_format">%1$d %2$s</string>
+    <string name="startup_on_boot">Start on Boot</string>
+    <string name="accessibility_guide_title">Accessibility Setup</string>
+    <string name="accessibility_guide_body">1. Tap \'Grant Permission\' below.\n2. Find \'MediaKeys\' in the list.\n3. Toggle it ON.\n4. Tap \'Allow\'.</string>
+    <string name="battery_optimization_title">Battery Optimization</string>
+    <string name="battery_optimization_body">For reliable background operation, exempt MediaKeys from battery optimization in System Settings → Battery → Unmonitored Apps.</string>
+    <string name="open_battery_settings">Open Battery Settings</string>
+    <string name="preferred_media_app_label">Preferred Media App</string>
+
+    <!-- Notification -->
+    <string name="notification_channel_name">MediaKeys Service</string>
+    <string name="notification_channel_desc">Keeps MediaKeys gesture engine running</string>
+    <string name="notification_title">MediaKeys Active</string>
+    <string name="notification_text">Listening for gestures</string>
+</resources>

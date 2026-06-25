@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\9.4.1\\com.mediakeys.app-mergeDebugResources-50:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\9.4.1\\com.mediakeys.app-main-53:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\9.4.1\\com.mediakeys.app-mergeDebugResources-50:\\layout\\item_gesture.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\9.4.1\\com.mediakeys.app-main-53:\\layout\\item_gesture.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\9.4.1\\com.mediakeys.app-mergeDebugResources-50:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\9.4.1\\com.mediakeys.app-main-53:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "com.mediakeys.app-mergeDebugResources-50:/layout/fragment_settings.xml",
+        "source": "com.mediakeys.app-main-53:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\9.4.1\\com.mediakeys.app-mergeDebugResources-50:\\layout\\fragment_gestures.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\9.4.1\\com.mediakeys.app-main-53:\\layout\\fragment_gestures.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\9.4.1\\com.mediakeys.app-mergeDebugResources-50:\\layout\\fragment_settings.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\9.4.1\\com.mediakeys.app-main-53:\\layout\\fragment_settings.xml"
+    }
+]
